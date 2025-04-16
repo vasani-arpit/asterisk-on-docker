@@ -1,0 +1,1 @@
+# asterisk-on-docker
