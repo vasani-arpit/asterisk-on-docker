@@ -16,5 +16,6 @@ You can do `docker ps` to check the container is running or not. and if you want
 
 
 ## TODO
-[ ] Add docker-compose file
-[ ] Optimize the image for storage 
+
+- [ ] Add docker-compose file
+- [ ] Optimize the image for storage 
